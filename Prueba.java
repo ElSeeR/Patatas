@@ -5,6 +5,7 @@ public class Prueba {
 		System.out.println("Sergio Bailez Garcia");
 		System.out.println("La Bañeza");
 		System.out.println("Leon");
+		System.out.println("2001");
 	}
 
 }
